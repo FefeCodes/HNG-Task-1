@@ -54,7 +54,7 @@ Task 1/
 │   └── index.js            Profile page JavaScript
 ├── about/
 │   ├── about.html          About page
-│   └── about.js            About page styles
+│   └── about.css            About page styles
 ├── contact/
 │   ├── contact.html        Contact page
 │   ├── contact.css         Contact page styles
