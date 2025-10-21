@@ -48,17 +48,17 @@ Project Structure
 
 ```
 Task 1/
-├── profile/
-│   ├── index.html          Main profile page
-│   ├── styles.css          Profile page styles
-│   └── index.js            Profile page JavaScript
-├── about/
-│   ├── about.html          About page
-│   └── about.css            About page styles
-├── contact/
-│   ├── contact.html        Contact page
-│   ├── contact.css         Contact page styles
-│   └── contact.js          Contact form validation
+├── index.html               Main profile page
+├── about.html               About page
+├── contact.html             Contact page
+├── styles/
+│   ├── styles.css           Profile page styles
+|   ├── about.css            About page styles
+│   └── contact.css          Contact page styles
+├── scripts/
+│   ├── index.js             Profile page JavaScript
+│   ├── about.js             About page JavaScript
+│   └── contact.js           Contact form validation
 ├── asset/
 │   └── Oluwaferanmi Aina.jpg  Profile image
 └── README.md               Project documentation
